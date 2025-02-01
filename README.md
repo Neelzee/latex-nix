@@ -1,8 +1,7 @@
 # Latex Nix
 
-run using nix:
-```shell
-nix run github:neelzee/latex-nix
-```
+## How to use
+
+Copy the flake file, and run using: `nix build`
 
 Based on [this](https://flyx.org/nix-flakes-latex/)
